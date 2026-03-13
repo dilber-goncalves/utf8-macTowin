@@ -1,2 +1,34 @@
-# utf8-macTowin
-Fixes the names of folders and files that contain special characters generated on Mac which do not appear correctly on Windows devices
+# Filename Encoding Fixer
+
+A simple tool that fixes folder and file names containing special characters generated on macOS that do not display correctly on Windows systems.
+
+The project is written in **Python**, and a **Windows executable (.exe)** is also provided for users who do not have Python installed.
+
+---
+
+## Problem
+
+Files or folders created on macOS may contain special characters that appear incorrectly on Windows due to differences in character encoding.
+
+This tool scans a selected directory and automatically corrects these problematic characters.
+
+---
+
+## Features
+
+- Select a folder containing files and directories with incorrect characters
+- Automatically scans all items inside the selected directory
+- Renames files and folders with corrected character encoding
+- Displays a summary with the number of affected files and folders
+
+---
+
+## How to Use
+
+### Windows Executable
+
+1. Download the `.exe` file from the repository.
+2. Run the application.
+3. Select the folder containing the files to be fixed.
+4. The program will scan and correct the names automatically.
+5. A summary will be displayed showing how many files and folders were affected.

@@ -2,8 +2,6 @@
 
 A simple tool that fixes folder and file names containing special characters generated on macOS that do not display correctly on Windows systems.
 
-The project is written in **Python**, and a **Windows executable (.exe)** is also provided for users who do not have Python installed.
-
 ---
 
 ## Problem

@@ -1,4 +1,5 @@
 # Filename Encoding Fixer
+[Download](https://github.com/dilber-goncalves/utf8-macTowin/releases/tag/v1.0)
 
 A simple tool that fixes folder and file names containing special characters generated on macOS that do not display correctly on Windows systems.
 
@@ -25,7 +26,7 @@ This tool scans a selected directory and automatically corrects these problemati
 
 ### Windows Executable
 
-1. Download the `.exe` file from the repository.
+1. Download the `.exe`  file [here](https://github.com/dilber-goncalves/utf8-macTowin/releases/tag/v1.0) or from the repository.
 2. Run the application.
 3. Select the folder containing the files to be fixed.
 4. The program will scan and correct the names automatically.
